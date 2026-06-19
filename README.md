@@ -1,5 +1,4 @@
 ## Hi 👋
-<!--
 # Xin chào, tôi là Quang Bùi👋
 
 🎓 Sinh viên Đại học Bạc Liêu
@@ -10,5 +9,4 @@
 
 🎯 Mục tiêu của tôi là phát triển kiến thức chuyên môn và tích lũy kinh nghiệm thực tế
 
-📫 Liên hệ : buiminhquang1222@gmail.com 
--->
+📫 Liên hệ : buiminhquang1222@gmail.com
