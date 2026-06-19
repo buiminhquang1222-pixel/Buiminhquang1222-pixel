@@ -1,16 +1,14 @@
-## Hi there 👋
-
+## Hi 👋
 <!--
-**buiminhquang1222-pixel/Buiminhquang1222-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Xin chào, tôi là Quang Bùi👋
 
-Here are some ideas to get you started:
+🎓 Sinh viên Đại học Bạc Liêu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Yêu thích công nghệ và không ngừng học hỏi
+
+🌱 Hiện đang tìm hiểu về Git, GitHub và các kỹ năng công nghệ thông tin
+
+🎯 Mục tiêu của tôi là phát triển kiến thức chuyên môn và tích lũy kinh nghiệm thực tế
+
+📫 Liên hệ : buiminhquang1222@gmail.com 
 -->
