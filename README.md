@@ -3,7 +3,7 @@
 
 🎓 Sinh viên năm nhất tại Đại học Bạc Liêu
 
-📚 Yêu thích công nghệ và không ngừng học hỏi không ngừng 
+📚 Yêu thích công nghệ và không ngừng học hỏi không ngừng cố gắng.
 
 🌱 Hiện đang học và tìm hiểu về công nghệ thông tin 
 
